@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="assets/css/app.css">
 
     <!-- umeditor css -->
-    <link href="umeditor/themes/default/css/ueditor.css" rel="stylesheet">
+    <link href="umeditor/themes/default/css/umeditor.css" rel="stylesheet">
 
     <style>
         .title {
@@ -88,8 +88,8 @@
 <![endif]-->
 
 <!-- umeditor js -->
-<script charset="utf-8" src="umeditor/ueditor.config.js"></script>
-<script charset="utf-8" src="umeditor/ueditor.all.min.js"></script>
+<script charset="utf-8" src="umeditor/umeditor.config.js"></script>
+<script charset="utf-8" src="umeditor/umeditor.min.js"></script>
 <script src="umeditor/lang/zh-cn/zh-cn.js"></script>
 
 <script>
